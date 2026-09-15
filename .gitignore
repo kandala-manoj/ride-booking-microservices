@@ -1,0 +1,40 @@
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Spring Tool Suite
+.springBeans
+.sts4-cache/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Maven
+target/
+*.class
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Local configuration
+application-local.properties
+application-local.yml
+application-local.yaml
